@@ -1,6 +1,6 @@
 # HOUSE PRICE PREDICTION
-  👉🏻 **This project was a part of my major project in using machine learning and web development.**
+  👉🏻 **This project was a part of my major project in using machine learning and web development. We will do regression on bangalore house prediction dataset. We will also convert the model to a fully functional Web application using the flask framework**
 
 # Dataset 
-Link - https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data              
+Dataset Link - https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data              
 Soure Code - https://github.com/shakti1590/House-price-prediction
